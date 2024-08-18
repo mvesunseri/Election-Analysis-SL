@@ -1,0 +1,37 @@
+Labour: 9708716
+Conservative: 6828925
+Reform UK: 4117610
+Liberal Democrat: 3519143
+Green Party of England & Wales: 1842436
+Scottish National Party: 724758
+Independents: 589333
+Others: 215707
+Sinn Fein: 210891
+Workers Party of Britain: 210252
+Plaid Cymru: 194811
+Democratic Unionist Party: 172058
+Alliance: 117191
+Ulster Unionist Party: 94779
+Scottish Green Party: 92685
+Social Democratic & Labour: 86861
+Traditional Unionist Voice: 48685
+Social Democratic Party: 33811
+
+Labour: 411
+Conservative: 121
+Reform UK: 5
+Liberal Democrat: 72
+Green Party of England & Wales: 4
+Scottish National Party: 9
+Independents: 7
+Others: 0
+Sinn Fein: 7
+Workers Party of Britain: 0
+Plaid Cymru: 4
+Democratic Unionist Party: 5
+Alliance: 1
+Ulster Unionist Party: 1
+Scottish Green Party: 0
+Social Democratic & Labour: 2
+Traditional Unionist Voice: 1
+Social Democratic Party: 0
